@@ -1,3 +1,5 @@
+/* проверка */
+
 * {
   text-decoration: none;
   font-family: "Ubuntu", sans-serif;
@@ -49,7 +51,6 @@ header {
 .burger::before {
   top: 0
 }
-
 .burger::after {
   bottom: 0
 }
